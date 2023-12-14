@@ -1,0 +1,395 @@
+7/4/23, 19:57 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+7/4/23, 19:57 - You created group "4th year project group🗿"
+7/4/23, 19:58 - Ris: https://docs.google.com/spreadsheets/d/1-vI8cgPbS0OxZti0Y3tFhNtBlSUCdYsa-CG0y3UiWp0/edit?usp=drivesdk
+
+Fill the project group details in the above sheet
+7/4/23, 19:58 - Ris: Someone fill our team details
+7/4/23, 19:58 - Ris: And add imran also
+7/4/23, 21:51 - CIT Nihal: Imran.vcf (file attached)
+7/4/23, 21:51 - CIT Nihal: U are admin
+7/4/23, 23:23 - Ris: Oh ok
+7/4/23, 23:24 - You added CIT Imran
+7/6/23, 13:09 - Ris: Imran nihal karthiban and Vignesh tell your cgpa
+7/6/23, 13:09 - Ris: Vignesh tell roll number also
+7/6/23, 13:09 - CIT Imran: Imran 7.85
+7/6/23, 13:10 - Ris: Nihal roll number is 84 correct?
+7/6/23, 13:10 - CIT Nihal: Yes
+7/6/23, 13:13 - Ris: Ok👍
+7/6/23, 13:13 - Ris: Tell cgpa
+7/6/23, 13:14 - CIT Nihal: I have to check first
+7/6/23, 13:14 - Ris: Okay
+7/6/23, 14:02 - CIT Vignesh: 6.95
+7/6/23, 16:07 - CIT Nihal: 7.6
+7/6/23, 16:22 - CIT Karthiban: Anybody have sem 5 result?
+7/6/23, 18:11 - Ris: no
+7/6/23, 18:18 - Ris: <Media omitted>
+7/6/23, 18:24 - CIT Nihal: 😂
+7/6/23, 18:44 - CIT Vignesh: 😂
+7/10/23, 13:00 - You added CIT Subiksha
+7/10/23, 13:15 - Ris: New teammate subiksha, she said she'll do all the project work, documentation work and ppt work so we can chill in the corner 🙌
+7/10/23, 13:16 - CIT Imran: Who are our team mates
+7/10/23, 13:17 - CIT Nihal: This message was deleted
+7/10/23, 13:17 - CIT Nihal: Subhiksha
+7/10/23, 13:17 - Ris: You me nihal Vignesh subiksha and karthiban
+7/10/23, 13:18 - CIT Nihal: 6 members?
+7/10/23, 13:18 - CIT Imran: We are 6
+7/10/23, 13:18 - CIT Imran: Ok
+7/10/23, 13:18 - CIT Imran: Nihal is ko zara bol subiksha ka kare ge
+7/10/23, 13:37 - CIT Subiksha: Thanks for adding me in bro
+7/10/23, 22:13 - Ris: Is this project for 1 semester or 2 semesters?
+7/10/23, 22:13 - Ris: anyone knows?
+7/10/23, 22:13 - CIT Nihal: 1
+7/10/23, 22:13 - Ris: are u sure
+7/10/23, 22:13 - CIT Nihal: No
+7/10/23, 22:14 - Ris: 🗿
+7/10/23, 22:35 - CIT Nihal: I asked senior
+7/10/23, 22:35 - CIT Nihal: He said both options are available
+7/10/23, 23:29 - Ris: Ohh i see
+7/11/23, 13:22 - Ris: Everyone assembly in our class by 2:10pm
+7/11/23, 13:23 - Ris: 2:10, not 2
+7/11/23, 13:25 - Ris: Plan change assemble at l303
+7/11/23, 15:27 - Ris: Tchr Karthikeyan G sir.vcf (file attached)
+7/12/23, 12:36 - CIT Imran: Project WhatsApp chat sentimental analysis
+7/12/23, 22:08 - Ris: Imran sir told us to choose 3 topics and read 2 research papers on each topic
+7/12/23, 22:16 - Ris: <Media omitted>
+7/12/23, 22:17 - Ris: Imran think 2 more topics
+7/12/23, 22:17 - CIT Imran: I have chosen 3 topics
+What chat sentimental analysis
+Date of birth and gender detection
+Automated attendance system using face recognition
+7/12/23, 22:18 - CIT Imran: Best is WhatsApp chat analysis
+7/12/23, 22:19 - Ris: :0 yes
+7/12/23, 22:20 - Ris: Let's think about more topics, if anyone comes up with any topic put it here
+7/12/23, 22:20 - CIT Imran: <Media omitted>
+7/12/23, 22:20 - CIT Imran: <Media omitted>
+7/12/23, 22:21 - Ris: Wow god speed imran🫡
+7/12/23, 22:22 - Ris: I think this is good
+7/12/23, 22:22 - Ris: I have an idea to upgrade this project(the project in this paper)
+7/12/23, 22:23 - CIT Imran: Which project
+7/12/23, 22:23 - Ris: We can implement all these features, and use gpt model to find the context of the selected chat and do something with it
+7/12/23, 22:23 - Ris: WhatsApp chat analyzer
+7/12/23, 22:24 - CIT Imran: Explain more
+7/12/23, 22:24 - Ris: We can extract a chat in WhatsApp, then feed it to our system
+7/12/23, 22:24 - Ris: Our system will analyse the chat and show analytics like this
+7/12/23, 22:25 - Ris: Plus it'll read the chats, understand it, and suggest what kinds of ads are suitable to display to those people based on what they're speaking about
+7/12/23, 22:25 - CIT Imran: You explain what changes you will made in chat analysis
+7/12/23, 22:25 - Ris: This
+7/12/23, 22:26 - Ris: Also we can have our project support multiple chat files like Instagram chat or telegram chat
+7/12/23, 22:26 - Ris: This is our basic idea, we can build from this
+7/12/23, 22:26 - CIT Imran: https://youtu.be/Q0QwvZKG_6Q
+7/12/23, 22:27 - CIT Imran: See demo of project
+7/12/23, 22:27 - Ris: It's in hindi🗿
+7/12/23, 22:27 - CIT Imran: Leave hindi see demo
+7/12/23, 22:28 - Ris: Ok
+7/12/23, 22:28 - Ris: It is 2 hours and 30 minutes
+7/12/23, 22:28 - CIT Imran: Only see first 2 minutes
+7/12/23, 22:30 - Ris: Yes we can extract chats as files
+7/12/23, 22:30 - Ris: That will be the input to our project
+7/12/23, 22:31 - Ris: Damn we are going to kill this
+7/13/23, 13:29 - Ris: Today no project meeting
+7/13/23, 13:30 - Ris: Everyone read these 2 papers
+7/16/23, 11:15 - Ris: Who hasn't read any papers yet?
+7/16/23, 13:25 - Ris: Thanks for all the answers guys very helpful🙏
+7/16/23, 14:04 - CIT Vignesh: <Media omitted>
+7/16/23, 23:22 - Ris: i got a new topic. It's a clone of Jarvis, it can take our input in more than 100 different languages, do the action and reply us in our language. For example, we say "hey jarvis, light ah on pannu" and it turns on the light and replies "rightuu"
+7/16/23, 23:22 - Ris: This can be done easily, i know how to do this
+7/16/23, 23:36 - CIT Vignesh: Aaii
+7/16/23, 23:36 - CIT Vignesh: Super da
+7/16/23, 23:37 - CIT Vignesh: Name Jarvis Vanda Vignesh nu vachekoo😂
+7/16/23, 23:38 - CIT Vignesh: 👌🏻
+7/17/23, 00:01 - Ris: <Media omitted>
+7/17/23, 00:01 - Ris: Vignesh ai be like
+7/17/23, 00:09 - CIT Vignesh: Daii
+7/17/23, 00:09 - CIT Vignesh: <Media omitted>
+7/19/23, 22:59 - Ris: Nihal read this
+7/19/23, 22:59 - Ris: Ill read this
+7/19/23, 23:00 - Ris: <Media omitted>
+7/19/23, 23:00 - CIT Subiksha: OK 👍
+7/19/23, 23:00 - Ris: <Media omitted>
+7/19/23, 23:00 - Ris: we have to meet our guide tomorrow and tell him this
+7/20/23, 13:18 - Ris: Anyone hasn't read their paper yet?
+7/20/23, 13:19 - CIT Subiksha: Did
+7/20/23, 13:19 - Ris: Oh great
+7/20/23, 13:23 - Ris: We will meet sir at 3pm
+7/20/23, 13:23 - CIT Subiksha: Okay
+7/20/23, 13:23 - Ris: So everyone be ready at assemble before the it block at that time
+7/20/23, 14:47 - Ris: To*
+7/20/23, 14:47 - Ris: Assemble before it block at 3pm
+7/25/23, 14:25 - CIT Nihal: <Media omitted>
+7/25/23, 15:08 - Ris: Everyone be ready to see our guide
+7/25/23, 15:16 - Ris: Total cost for printing project diary and papers 120, everyone pay 20 to imran
+7/26/23, 22:20 - Ris: Nihal send the new research papers
+7/26/23, 22:30 - CIT Nihal: <Media omitted>
+7/26/23, 22:31 - CIT Nihal: <Media omitted>
+7/26/23, 22:31 - CIT Nihal: <Media omitted>
+7/26/23, 22:31 - CIT Nihal: <Media omitted>
+7/31/23, 12:38 - CIT Imran: The paper titled "Text Classification based Behavioural Analysis of WhatsApp Chats" presents a model that performs sentimental and emotional analysis using textual messages and emojis used in WhatsApp chats. The model handles code switching and unifies all texts to a standard form. For each subject, multiple chats are taken, translated, and using a neural network, each sentence and emoji is scored in a dimensional form. The composition of emotions expressed by the subject is defined, and behavioral traits are extracted to determine if the subject likes to use emojis, behaves differently on text according to the person in front of them, and if they are an introvert or extrovert. The paper also discusses the data set, proposed methodology for collection, and key insights and pre-processing of the data. Finally, the paper presents the proposed algorithm for calculating scores for each individual subject, external tools used for multi-classification of emotions, and validity checks performed on the library. The results of the analysis are presented, followed by the conclusion.
+8/1/23, 13:42 - Ris: Everyone come to our class
+8/1/23, 14:48 - Ris: Sir said only those who meet sir every weekend will get the attendance
+8/2/23, 18:03 - CIT Vignesh: <Media omitted>
+8/2/23, 22:19 - Ris: <Media omitted>
+8/3/23, 13:42 - Ris: Everyone come to the class at 2
+8/3/23, 13:43 - CIT Nihal: We will go at 2:30
+8/3/23, 13:46 - Ris: Yes but imran has to explain everything to us
+8/3/23, 13:47 - Ris: So come at 2
+8/7/23, 21:34 - CIT Vignesh: Dear Students, 
+Following are the tentative Review dates for your Main project phase I ,
+Review I - 22/8,24/8,25/8
+Review II - 21/9,22/9,26/9
+Review III - 17/10,19/10,20/10.
+8/8/23, 08:35 - Ris: POLL:
+Can we skip seeing the guide and today and go next week?
+OPTION: Yes (0 votes)
+OPTION: Yessss🔥🔥💥💥 (4 votes)
+
+8/8/23, 08:36 - Ris: Majority votes count
+8/8/23, 08:36 - Ris: Not voting will count to "yes"
+8/8/23, 09:34 - CIT Nihal: Why?
+8/8/23, 09:34 - Ris: No reason
+8/8/23, 09:34 - Ris: Not next week, we can go on Thursday
+8/8/23, 09:35 - CIT Nihal: We will go for 5 mins
+8/8/23, 09:36 - Ris: See 4 members want to go Thursday and not today
+8/10/23, 12:04 - CIT Imran: You prepare vader algorithm and how it works
+8/10/23, 12:29 - CIT Imran: Here's a brief explanation of how to perform sentiment analysis on WhatsApp chats using the VADER algorithm:
+
+Preprocessing: First, you'll need to clean and preprocess the text data. This involves removing any unnecessary characters, converting text to lowercase, and handling any special cases like emojis or URLs.
+
+Tokenization: Break down the messages into smaller units called tokens. Tokens are typically words or phrases. This step helps the algorithm understand the text better.
+
+VADER Sentiment Analysis: VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool specifically designed for social media text. It assigns a polarity score to each token or sentence, indicating whether it's positive, negative, or neutral. The scores are then combined to calculate an overall sentiment score for the entire message.
+
+Aggregation: After calculating sentiment scores for individual messages, you can aggregate them to get an overall sentiment analysis for the entire chat. This can involve calculating averages or looking for patterns in the data.
+
+Interpretation: Analyze the sentiment scores to understand the emotional tone of the chat. Positive scores indicate positive sentiment, negative scores indicate negative sentiment, and scores close to zero are neutral.
+
+Visualization: You can visualize the sentiment analysis results using graphs or charts to get a clearer understanding of the emotional trends in the chat.
+8/10/23, 12:30 - CIT Imran: How vader algorithm works
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis algorithm designed to analyze text and determine its emotional tone. Here's how VADER works:
+
+Lexicon-based Approach: VADER uses a pre-built lexicon (a list of words) that contains information about the sentiment of words. Each word in the lexicon is assigned a polarity score, indicating whether it's positive, negative, or neutral. Some words might also have intensifiers or modifiers that affect their sentiment strength.
+
+Polarity Scores: VADER assigns polarity scores to individual words in the text. Words with higher positive scores are considered positive, while words with higher negative scores are considered negative. For example, "good" might have a high positive score, while "bad" might have a high negative score.
+
+Contextual Valence: VADER takes into account the context in which words appear. It recognizes negations (words like "not" that reverse the sentiment), capitalization, punctuation, and degree modifiers (like "very" or "extremely") that can change the sentiment of a sentence.
+
+Sensitivity to Emojis and Slangs: VADER is designed to handle the kind of informal language often found in social media. It can interpret the sentiment of emojis, emoticons, and common slang words, allowing it to capture the nuances of text in online conversations.
+
+Sentiment Summation: After assigning polarity scores to all the words in a sentence or text, VADER calculates a sentiment score for the entire text. It combines the scores using a formula that takes into account the intensity of the sentiment-bearing words and adjusts for negations and other linguistic features.
+
+Thresholds and Categorization: Based on the sentiment score, VADER categorizes the text into one of four classes: positive, negative, neutral, or compound. The compound score represents an overall sentiment, while the other classes represent the dominant sentiment type.
+
+Rule-Based Adjustment: VADER also has a set of rules to handle cases that might not be accurately captured by the lexicon alone. These rules help fine-tune the sentiment analysis, such as handling repeated letters for emphasis ("soooo good") or handling capitalization for added sentiment.
+
+VADER is effective for analyzing short and informal texts, making it suitable for sentiment analysis in social media posts, reviews, and chats like those in WhatsApp. It's important to note that while VADER is powerful, it might not be perfect for all scenarios, and its accuracy can vary based on the context and language used in the text
+8/10/23, 13:30 - Ris: Everyone assemble in our class
+8/10/23, 13:30 - Ris: We'll meet sir
+8/10/23, 13:30 - Ris: After completing lunch
+8/10/23, 13:31 - CIT Nihal: First make sure he's not in the meeting
+8/10/23, 14:06 - Ris: Assemble in the class, we are going to meet our guide
+8/17/23, 14:03 - CIT Vignesh: Assemble in the class, we are going to meet our guide
+8/17/23, 14:03 - CIT Vignesh: L201
+8/19/23, 21:59 - CIT Nihal: Who is preparing ppt?
+8/19/23, 21:59 - CIT Nihal: We have review next week
+8/19/23, 22:38 - Ris: I'll prepare ppt
+8/19/23, 22:39 - Ris: Send me if you have any demo ppt
+8/19/23, 22:39 - Ris: Like the last year's
+8/20/23, 11:25 - CIT Nihal: I don't have any demo ppt
+8/20/23, 21:08 - CIT Nihal: our review is on thursday
+8/20/23, 21:08 - CIT Nihal: reviewer mohanapriya mam and suganya mam
+8/20/23, 21:14 - Ris: Oh nice
+8/20/23, 21:15 - CIT Nihal: .
+8/20/23, 21:15 - CIT Nihal: What's nice
+8/20/23, 21:16 - Ris: If we pass through harder reviewers for early reviews (this review is only for topic finalization) then we'll get easier reviewers for later reviews
+8/20/23, 21:17 - CIT Nihal: Who told u that😂
+8/20/23, 21:17 - Ris: I thought so
+8/20/23, 21:17 - CIT Nihal: Last time we got punidha mam two times
+8/20/23, 21:18 - Ris: Oh🤔
+8/21/23, 11:21 - CIT Imran: <Media omitted>
+8/21/23, 16:23 - CIT Nihal: <Media omitted>
+8/21/23, 20:16 - Ris: @919682145348 Is it ok if i put the domain of our project as ML?
+8/21/23, 20:19 - Ris: @917889359995 Send the research papers ill prepare the ppt <This message was edited>
+8/21/23, 20:44 - CIT Nihal: Ok
+8/21/23, 20:44 - CIT Nihal: Wait
+8/21/23, 20:44 - CIT Nihal: I'm not in hostel right now
+8/21/23, 20:46 - Ris: ok
+8/21/23, 21:03 - CIT Nihal: <Media omitted>
+8/21/23, 21:03 - CIT Nihal: <Media omitted>
+8/21/23, 21:03 - CIT Nihal: <Media omitted>
+8/21/23, 21:03 - CIT Nihal: <Media omitted>
+8/21/23, 21:35 - Ris: <Media omitted>
+8/22/23, 12:59 - Ris: Everyone assemble in our class at 2:15pm
+8/22/23, 23:35 - Ris: <Media omitted>
+8/23/23, 13:17 - Ris: Everyone learn this ppt well, our reviewer mohana priya will ask anyone to explain any slide
+8/23/23, 13:17 - Ris: Also remember we only completed till preprocessing
+8/23/23, 20:40 - CIT Nihal: Who is reading which paper?
+8/23/23, 21:42 - Ris: @919682145348
+8/23/23, 21:42 - Ris: @917358883402
+8/23/23, 21:42 - Ris: @917889359995
+8/23/23, 21:42 - Ris: @918248693140
+8/23/23, 21:51 - Ris: <Media omitted>
+8/23/23, 21:51 - Ris: <Media omitted>
+8/23/23, 21:53 - Ris: <Media omitted>
+8/23/23, 23:04 - Ris: Do we have to print out the presentation and get signature on it from our guide?
+8/23/23, 23:04 - Ris: I've heard so
+8/23/23, 23:04 - CIT Imran: No need
+8/23/23, 23:08 - Ris: Are you sure?
+8/23/23, 23:08 - CIT Imran: We  will confirm it tomorrow
+8/23/23, 23:30 - Ris: Ok ask someone soon, i think we need to do that
+8/24/23, 15:03 - CIT Subiksha: Guys we have review tomo @12
+8/24/23, 15:03 - CIT Subiksha: Shareena informed now
+8/24/23, 15:07 - Ris: <Media omitted>
+8/24/23, 15:08 - Ris: Where?
+8/24/23, 15:26 - CIT Subiksha: We ll have to ask suganga mam
+8/24/23, 15:28 - Ris: Why not mohana priya ma'am?
+8/24/23, 15:29 - CIT Subiksha: You love her soo much ryt 😂
+8/24/23, 15:29 - CIT Subiksha: Why not suganya
+8/24/23, 15:29 - CIT Subiksha: We don't need to get into trouble with only a call 😂
+8/24/23, 15:30 - Ris: <Media omitted>
+8/24/23, 15:30 - Ris: Ok we can ask tomorrow
+8/24/23, 15:30 - CIT Subiksha: Yeah ryt
+8/24/23, 15:46 - CIT Nihal: Ask shareena
+8/24/23, 15:46 - CIT Subiksha: She doesn't know
+8/24/23, 15:47 - CIT Subiksha: She asked me to contact suganya
+8/24/23, 15:48 - CIT Vignesh: <Media omitted>
+8/24/23, 21:51 - CIT Imran: When we have review
+8/24/23, 21:54 - Ris: Tomorrow 12pm
+8/25/23, 09:50 - CIT Nihal: Anyone asked mam?
+8/25/23, 09:51 - Ris: Karthiban asked ma'am
+8/25/23, 09:51 - Ris: out
+8/25/23, 09:51 - Ris: Jk someone ask
+8/25/23, 09:52 - Ris: @918248693140 you ask
+8/25/23, 09:59 - CIT Nihal: Who is making bot?
+8/25/23, 09:59 - CIT Nihal: <Media omitted>
+8/25/23, 10:23 - CIT Subiksha: We have to assemble at IT 444. 12 o clock
+8/25/23, 10:23 - CIT Subiksha: Can you tell the other 2 batches also @919894485477
+8/25/23, 10:29 - Ris: You
+8/25/23, 10:29 - Ris: Good luck
+8/25/23, 10:30 - Ris: Hisham batch and what's the other batch?
+8/25/23, 10:32 - CIT Subiksha: This message was deleted
+8/25/23, 10:32 - CIT Subiksha: Karupaiya s
+8/25/23, 10:33 - Ris: Ok
+8/25/23, 10:39 - CIT Nihal: <Media omitted>
+8/25/23, 10:39 - CIT Nihal: everyone see
+8/25/23, 10:44 - CIT Nihal: https://www.transfernow.net/dl/main_project
+8/25/23, 10:45 - CIT Nihal: link for project
+8/25/23, 11:01 - Ris: Ok
+8/25/23, 11:01 - Ris: Nice
+8/25/23, 11:01 - Ris: It's good
+8/28/23, 14:29 - Ris: We are going to meet our reviewer after this class <This message was edited>
+9/2/23, 13:11 - CIT Nihal: Are we going to meet our guide today?
+9/2/23, 13:11 - Ris: I'm not in the college so maybe you and others meet sir today
+9/2/23, 13:12 - CIT Subiksha: I'm on leave too
+9/2/23, 13:13 - Ris: POLL:
+Meet sir today?
+OPTION: Yes (0 votes)
+OPTION: No (5 votes)
+
+9/2/23, 13:19 - CIT Nihal: <Media omitted>
+9/2/23, 13:20 - Ris: Too bad it's out of our control, good luck
+9/2/23, 13:25 - Ris: Nihal call sir and ask if he's present today, there's a good chance that he's absent
+9/2/23, 13:26 - Ris: So we can make it like we were all ready to see him, thus getting the attendance for all 6 members today
+9/2/23, 13:31 - CIT Nihal: I saw him
+9/2/23, 13:31 - CIT Nihal: He also saw me and imran
+9/2/23, 13:39 - Ris: Ok then you nihal and karthiban go to meet sir
+9/2/23, 13:40 - Ris: Vignesh and me are not in coimbatore and subiksha is also absent so it's not possible for us to come today
+9/2/23, 13:40 - Ris: You say we are absent but don't say reason
+9/2/23, 13:41 - Ris: Oops the project diary is in my room and we have to get guide marks there
+9/2/23, 13:43 - Ris: <Media omitted>
+9/2/23, 13:44 - CIT Vignesh: <Media omitted>
+9/2/23, 13:49 - CIT Karthiban: varun irupala
+9/2/23, 13:51 - Ris: Went for placement
+9/2/23, 13:51 - Ris: Not sure call him and ask
+9/2/23, 13:55 - CIT Vignesh: ...
+9/2/23, 13:57 - Ris: He saw sir today morning and sir saw him and imran
+9/2/23, 13:57 - Ris: So sir is present and sir knows they are present too
+9/2/23, 14:00 - CIT Vignesh: Ooo okk
+9/2/23, 14:08 - CIT Nihal: Leave it
+9/12/23, 12:50 - Ris: Everyone assemble in our class at 2pm
+9/12/23, 22:00 - Ris: https://www.kaggle.com/datasets/mozillaorg/common-voice?resource=download
+
+Human speech audio dataset, 500 hours of human speech
+9/13/23, 19:25 - Ris: I completed drawing intensity graph from an audio clip, I'll start doing text extraction from audio next
+9/13/23, 19:25 - CIT Imran: Ok
+9/13/23, 19:25 - CIT Nihal: Imran also did something
+9/13/23, 19:25 - CIT Imran: I have also done that using library
+9/13/23, 19:25 - Ris: Something means
+9/13/23, 19:26 - CIT Imran: Rishi you send code
+9/13/23, 19:26 - Ris: Are you cooking in imran house now?
+9/13/23, 19:26 - Ris: Ok I'll send later it's in my laptop
+9/13/23, 19:26 - CIT Imran: I will also send code
+9/13/23, 19:27 - CIT Nihal: I came back
+9/13/23, 19:27 - Ris: Ohhh
+9/21/23, 12:40 - Ris: Everyone come to our class at 2:30pm to meet our guide
+9/21/23, 13:28 - Ris: Meeting cancel
+9/21/23, 13:35 - CIT Karthiban: done
+9/21/23, 13:36 - CIT Subiksha: Our guide is strong enough to walk for 40 mins around the class but not teach 😂
+9/21/23, 13:37 - CIT Vignesh: <Media omitted>
+9/26/23, 13:07 - Ris: Assemble in our class at 2 15pm
+9/26/23, 14:10 - CIT Nihal: Ok
+10/3/23, 13:25 - Ris: Everyone assemble at our class at 2pm
+10/3/23, 13:37 - Ris: Plan cancel we will go by 3
+10/3/23, 13:41 - Ris: Nihal will tell when to come
+10/3/23, 13:45 - CIT Vignesh: 🙏🏻
+10/3/23, 19:57 - Ris: This time same reviewer as last time fml
+10/3/23, 19:58 - CIT Vignesh: This message was deleted
+10/4/23, 15:04 - CIT Imran: import librosa
+import librosa.display
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Define a function to calculate intensity
+def calculate_intensity(y):
+    return np.mean(y**2)
+
+# Load the audio file
+audio_file = "im.wav"  # Replace with the path to your audio file
+y, sr = librosa.load(audio_file)
+
+# Calculate intensity
+intensity = calculate_intensity(y)
+
+# Create a time array for plotting
+time = np.linspace(0, len(y) / sr, len(y))  # Match the length of time with the audio signal
+
+# Plot intensity without normalization
+plt.figure(figsize=(10, 4))
+plt.plot(time, y**2, color='r')
+plt.title('Intensity Over Time')
+plt.xlabel('Time (s)')
+plt.ylabel('Intensity')
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+print(f"Intensity of the sound is {intensity:.3f}")
+10/4/23, 15:06 - CIT Imran: <Media omitted>
+10/4/23, 15:07 - CIT Imran: im.wav
+10/4/23, 15:07 - CIT Imran: <Media omitted>
+10/4/23, 15:07 - CIT Imran: <Media omitted>
+10/4/23, 15:45 - Ris: <Media omitted>
+10/4/23, 21:08 - Ris: Imran do something for tomorrow's review
+10/4/23, 21:08 - Ris: Me and nihal will do ppt and documentation
+10/5/23, 00:28 - CIT Nihal: <Media omitted>
+10/5/23, 13:30 - Ris: @919682145348 @917889359995 come to class at 1 40
+10/5/23, 13:30 - Ris: Other members come anywhere between 2pm and 2 30pm
+10/5/23, 14:49 - CIT Nihal: <Media omitted>
+10/5/23, 14:50 - Ris: <Media omitted>
+10/5/23, 14:53 - CIT Nihal: <Media omitted>
+10/5/23, 14:53 - CIT Nihal: <Media omitted>
+10/5/23, 14:53 - CIT Nihal: <Media omitted>
+10/5/23, 14:53 - CIT Nihal: <Media omitted>
+10/5/23, 14:53 - Ris: You deleted this message
+10/5/23, 14:53 - Ris: You deleted this message
+10/5/23, 14:55 - Ris: Sent here
+10/5/23, 14:58 - CIT Nihal: This message was deleted
+10/5/23, 15:02 - CIT Vignesh: <Media omitted>
+10/5/23, 15:03 - CIT Nihal: 6th?
+10/5/23, 15:54 - CIT Nihal: <Media omitted>
+10/5/23, 16:44 - Ris: Imran.vcf (file attached)
+10/5/23, 16:44 - Ris: Tchr Karthikeyan G sir.vcf (file attached)
+10/5/23, 16:44 - Ris: <Media omitted>
+10/5/23, 16:50 - Ris: <Media omitted>
+10/5/23, 16:54 - CIT Subiksha: <Media omitted>
+10/5/23, 16:56 - Ris: Imran.vcf (file attached)
+10/5/23, 16:56 - Ris: Tchr Karthikeyan G sir.vcf (file attached)
+10/5/23, 16:57 - Ris: <Media omitted>
